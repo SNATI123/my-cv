@@ -457,7 +457,7 @@ body{
 
 .second_half .bod1{
     background-color: white;
-    height: 42%;
+    height: 39%;
     border-radius: 1%;
     box-shadow: 1px 1px 3px black;
     
@@ -483,6 +483,12 @@ body{
     border-top-right-radius: 1%;
 
 
+}
+
+
+.scoll{
+    overflow-y: scroll;
+    background-color: #015F9F;
 }
 
 .second_half .bod1 .top .titre{
@@ -646,7 +652,6 @@ body{
 .second_half .bod2 .part2 .language span{
     margin-left: 5%;
     align-self: center;
-    margin-top: %;
 
  }
  
